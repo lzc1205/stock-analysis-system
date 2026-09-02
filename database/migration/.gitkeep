@@ -1,0 +1,3 @@
+-- 数据库迁移脚本目录
+-- 按版本号命名，如 001_add_ods_daily_basic.sql
+-- 使用 Flyway 或手动执行
